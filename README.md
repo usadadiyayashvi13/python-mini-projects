@@ -1,4 +1,4 @@
-This repository contains my Python learning projects.
+Python learning projects with real examples.
 
 ## Projects:
 - Calculator
